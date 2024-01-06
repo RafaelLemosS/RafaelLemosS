@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="./hi.gif" height="30px"> Olá, me chamo Rafael! <img src="[https://c.tenor.com/rz4kOurhQ0QAAAAC/big-mouth-cat.gif](https://cdn.discordapp.com/banners/580416011472338957/a_721dfc56f357fd0317e40c40452c44e0.gif?size=512)" height="30px">
 </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CoyoteLogan&color=blue" alt="Vizualizações" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RafaelLemosS&color=blue" alt="Vizualizações" /> </p>
 
 <img src="https://cdn.discordapp.com/avatars/580416011472338957/a_359272e6481142797ede83c0e48822b3.gif?size=2048" width="125px" align="right">
 
@@ -18,7 +18,7 @@
 <br>
 
 <h1 align="center"><img src="https://c.tenor.com/Q5dH7srnB6EAAAAj/capoo-bug-cat.gif" width=5%> Stacks</h1>
-<a href="https://github.com/CoyoteLogan">
+<a href="https://github.com/RafaelLemosS">
 <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src = "https://img.shields.io/badge/Lua-323330?style=for-the-badge&logo=lua&logoColor=2C2D72">
 <img src = "https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=4479A1">
