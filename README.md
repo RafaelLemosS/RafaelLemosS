@@ -1,4 +1,4 @@
-<h1 align="center"> Hi <img src="./hi.gif" height="30px">, I'm Dave! <img src="https://c.tenor.com/rz4kOurhQ0QAAAAC/big-mouth-cat.gif" height="30px">
+<h1 align="center"> Hi <img src="./hi.gif" height="30px">, Olá, me chamo Logan! <img src="https://c.tenor.com/rz4kOurhQ0QAAAAC/big-mouth-cat.gif" height="30px">
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=D4v3sb&color=blueviolet" alt="Profile views" /> </p>
 
