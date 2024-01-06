@@ -18,7 +18,7 @@
 <br>
 
 <h1 align="center"><img src="https://c.tenor.com/Q5dH7srnB6EAAAAj/capoo-bug-cat.gif" width=5%> Stacks</h1>
-<a href="https://github.com/D4v3sb">
+<a href="https://github.com/CoyoteLogan">
 <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src = "https://img.shields.io/badge/Lua-323330?style=for-the-badge&logo=lua&logoColor=2C2D72">
 <img src = "https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=4479A1">
