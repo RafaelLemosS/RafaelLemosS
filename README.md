@@ -11,7 +11,7 @@
 
 <br>
 <div align="left">
-<a href="https://steamcommunity.com/id/logan_c/"><img src="https://steam-stat.vercel.app/api?profileName=logan_c"></a>
+<a href="https://steamcommunity.com/id/rafael_rls/"><img src="https://steam-stat.vercel.app/api?profileName=rafael_rls"></a>
 <a href="https://discord.com/users/580416011472338957"><img src="https://lanyard.cnrad.dev/api/580416011472338957"></a>
 </div>
 
