@@ -6,10 +6,9 @@
 
 Atualmente estou estudando <b>LUA</b> e <b>JavaScript</b>
 
-- 💻 Desenvolvedor Junior Lua - FiveM
-- 💻 Desenvolvedor Junior JavaScript
-- 📕 Estudando
-- 🎮 Jogando no tempo livre
+- 💻 Desenvolvedor Junior LUA e Javascript
+- 📫 Entre em contato comigo pelo email: Rafaeu_L@outlook.com
+- 🌐 Conheça meu [LinkedIn](https://www.linkedin.com/in/rafael-lemos-silva/)
 
 <br>
 <div align="left">
