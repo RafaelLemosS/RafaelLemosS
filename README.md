@@ -1,11 +1,13 @@
-<h1 align="center"> <img src="./hi.gif" height="30px"> Olá, me chamo Rafael! <img src="[https://c.tenor.com/rz4kOurhQ0QAAAAC/big-mouth-cat.gif](https://cdn.discordapp.com/banners/580416011472338957/a_721dfc56f357fd0317e40c40452c44e0.gif?size=512)" height="30px">
+<h1 align="center"> <img src="./hi.gif" height="30px"> Olá, sou o Rafael! <img src="[https://c.tenor.com/rz4kOurhQ0QAAAAC/big-mouth-cat.gif](https://cdn.discordapp.com/banners/580416011472338957/a_721dfc56f357fd0317e40c40452c44e0.gif?size=512)" height="30px">
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RafaelLemosS&color=blue" alt="Visualizações" /> </p>
 
 <img src="https://cdn.discordapp.com/avatars/580416011472338957/a_359272e6481142797ede83c0e48822b3.gif?size=2048" width="125px" align="right">
 
-- 💻 Desenvolvedor Lua - FiveM
-- 💻 Desenvolvedor JavaScript
+Atualmente estou estudando <b>LUA</b> e <b>JavaScript</b>
+
+- 💻 Desenvolvedor Junior Lua - FiveM
+- 💻 Desenvolvedor Junior JavaScript
 - 📕 Estudando
 - 🎮 Jogando no tempo livre
 
