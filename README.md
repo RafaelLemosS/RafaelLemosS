@@ -19,13 +19,21 @@ Atualmente estou estudando <b>LUA</b> e <b>JavaScript</b>
 
 <br>
 
-<h1 align="center"><img src="https://c.tenor.com/Q5dH7srnB6EAAAAj/capoo-bug-cat.gif" width=5%> Stacks</h1>
+<h1 align="center"><img src="https://i.imgur.com/qD0idGM.png" width=5%> Stacks</h1>
 <a href="https://github.com/RafaelLemosS">
-<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<!-- <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src = "https://img.shields.io/badge/Lua-323330?style=for-the-badge&logo=lua&logoColor=2C2D72">
-<img src = "https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=4479A1">
+<img src = "https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=4479A1"> -->
 </a>
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 <br>
 <br>
 
