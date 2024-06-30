@@ -29,9 +29,11 @@ Atualmente estou estudando <b>LUA</b> e <b>JavaScript</b>
 <br>
 <br>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RafaelLemosS&show_icons=true&theme=dark"/>
-</div>
+<!-- <div align="center"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=RafaelLemosS&show_icons=true&theme=dark"/> -->
+<!-- </div> -->
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=RafaelLemosS&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLemosS&hide=TeX&layout=compact&theme=dark)
 <br>
 <hr>
 <br>
