@@ -13,7 +13,8 @@ Atualmente estou estudando <b>LUA</b> e <b>JavaScript</b>
 <br>
 <div align="left">
 <a href="https://steamcommunity.com/id/rafael_rls/"><img src="https://steam-stat.vercel.app/api?profileName=rafael_rls"></a>
-<a href="https://discord.com/users/580416011472338957"><img src="https://lanyard.cnrad.dev/api/580416011472338957"></a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/580416011472338957?theme=black&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/580416011472338957)
+<!-- <a href="https://discord.com/users/580416011472338957"><img src="https://lanyard.cnrad.dev/api/580416011472338957"></a> -->
 </div>
 
 <br>
