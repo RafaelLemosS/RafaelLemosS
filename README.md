@@ -2,7 +2,7 @@
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RafaelLemosS&color=blue" alt="Visualizações" /> </p>
 
-<img src="https://cdn.discordapp.com/avatars/580416011472338957/a_359272e6481142797ede83c0e48822b3.gif?size=2048" width="125px" align="right">
+<img src="https://i.imgur.com/eAXZFmX.png?size=2048" width="125px" align="right">
 
 Atualmente estou estudando <b>LUA</b> e <b>JavaScript</b>
 
