@@ -12,11 +12,12 @@ Atualmente estou estudando <b>LUA</b>, <b>MySQL</b> e <b>JavaScript</b>
 
 <br>
 <div align="center">
-<a href="https://discord.com/users/580416011472338957"><img src="https://lanyard-profile-readme.vercel.app/api/580416011472338957?theme=black&bg=0b121e&animated=false&hideDiscrim=true&borderRadius=50px&idleMessage=Provavelmente%20fazendo%20alguma%20coisa..."></a>
+<a href="https://discord.com/users/580416011472338957"><img width=550px height=250px src="https://lanyard-profile-readme.vercel.app/api/580416011472338957?theme=black&bg=0b121e&animated=false&hideDiscrim=true&borderRadius=50p&idleMessage=Provavelmente%20fazendo%20alguma%20coisa..."></a>
 </div>
 
+<h1>
 <h2 align="center">
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D22862">
+<img href="https://codetime.dev" alt="CodeTime Badge" width=25% src="https://img.shields.io/endpoint?style=social&width=500px&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D22862">
 
 <br>
 
@@ -44,6 +45,6 @@ Atualmente estou estudando <b>LUA</b>, <b>MySQL</b> e <b>JavaScript</b>
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=RafaelLemosS&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLemosS&hide=TeX&layout=compact&theme=dark)
 <br>
-<hr>
+<h1>
 <br>
 <!-- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rV1CmS8C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9yn7vhjsvzhgi0w9p7he.gif" width=100%> -->
