@@ -12,10 +12,7 @@ Atualmente estou estudando <b>LUA</b>, <b>MySQL</b> e <b>JavaScript</b>
 
 <br>
 <div align="center">
-<!-- <a href="https://steamcommunity.com/id/rafael_rls/"><img src="https://steam-stat.vercel.app/api?profileName=rafael_rls?theme=black&bg=0b121e&animated=false&hideDiscrim=true&borderRadius=30px"></a> -->
-<!-- <a href="https://discord.com/users/580416011472338957"<img src="https://lanyard-profile-readme.vercel.app/api/580416011472338957?theme=black&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."></a> -->
-<!-- <a href="https://discord.com/users/580416011472338957"><img src="https://lanyard.cnrad.dev/api/580416011472338957"></a> -->
-<!-- <a href="https://discord.com/users/580416011472338957"><img src="https://lanyard-profile-readme.vercel.app/api/580416011472338957?theme=black&bg=0b121e&animated=false&hideDiscrim=true&borderRadius=50px&idleMessage=Provavelmente%20fazendo%20alguma%20coisa..."></a> -->
+<a href="https://discord.com/users/580416011472338957"><img src="https://lanyard-profile-readme.vercel.app/api/580416011472338957?theme=black&bg=0b121e&animated=false&hideDiscrim=true&borderRadius=50px&idleMessage=Provavelmente%20fazendo%20alguma%20coisa..."></a>
 </div>
 
 <h2 align="center">
