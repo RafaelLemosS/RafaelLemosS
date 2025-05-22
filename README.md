@@ -46,6 +46,6 @@ Atualmente estou estudando <b>LUA</b>, <b>MySQL</b> e <b>JavaScript</b>
 <br>
 <hr>
 <h2 align="center">
-<img href="https://codetime.dev" alt="CodeTime Badge"  height=30px src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25291%26project%3D%26in=604800000">
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D22862">
 <br>
 <!-- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rV1CmS8C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9yn7vhjsvzhgi0w9p7he.gif" width=100%> -->
