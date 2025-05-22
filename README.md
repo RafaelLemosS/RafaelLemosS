@@ -4,9 +4,9 @@
 
 <img src="https://i.imgur.com/eAXZFmX.png?size=2048" width="125px" align="right">
 
-Atualmente estou estudando <b>LUA</b> e <b>JavaScript</b>
+Atualmente estou estudando <b>LUA</b>, <b>MySQL</b> e <b>JavaScript</b>
 
-- 💻 Desenvolvedor Junior LUA e Javascript
+- 💻 Desenvolvedor Junior LUA, MySQL e Javascript
 - 📫 Entre em contato comigo pelo email: Rafaeu_L@outlook.com
 - 🌐 Conheça meu [LinkedIn](https://www.linkedin.com/in/rafael-lemos-silva/)
 
