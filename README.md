@@ -13,7 +13,7 @@
 
 Atualmente estou estudando **LUA**, **MySQL** e **JavaScript**.
 
-- 💻 Desenvolvedor Júnior em LUA, MySQL e JavaScript  
+- 💻 Desenvolvedor Backend Júnior
 - 📫 Entre em contato: [Rafaeu_L@outlook.com](mailto:Rafaeu_L@outlook.com)  
 - 🌐 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/rafael-lemos-silva/)
 
@@ -32,8 +32,10 @@ Atualmente estou estudando **LUA**, **MySQL** e **JavaScript**.
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat-square&color=102887)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=flat-square&color=102887)&nbsp;
+![Typescript](https://img.shields.io/badge/-Tyoescript-black?logo=bootstrap&style=flat-square&color=102887)&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=bootstrap&style=flat-square&color=102887)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-black?logo=lua&style=flat-square&color=102887)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=flat-square&color=102887)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=flat-square&color=102887)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square&color=102887)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=flat-square&color=102887)&nbsp;
