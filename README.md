@@ -62,5 +62,5 @@ Atualmente estou estudando **LUA**, **MySQL** e **JavaScript**.
 <h2 align="center">⌛ Tempo de Código</h2>
 
 <p align="center">
-  <img alt="CodeTime" src="https://img.shields.io/endpoint?style=flat-square&color=102887&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D22862" />
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D25291">
 </p>
