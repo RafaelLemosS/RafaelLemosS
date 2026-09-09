@@ -52,8 +52,7 @@ Atualmente estou estudando **LUA**, **MySQL** e **JavaScript**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RafaelLemosS&count_private=true&show_icons=true&theme=dark&include_all_commits=true" width="30%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLemosS&hide=TeX&layout=compact&theme=dark" width="30%">
+<img src="https://raw.githubusercontent.com/RafaelLemosS/RafaelLemosS/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
